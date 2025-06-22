@@ -1,0 +1,23 @@
+{
+  "name": "projeto-maario-kart",
+  "version": "1.0.0",
+  "description": "<h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OctavioDelpupo/projeto-maario-kart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OctavioDelpupo/projeto-maario-kart/issues"
+  },
+  "homepage": "https://github.com/OctavioDelpupo/projeto-maario-kart#readme"
+}
