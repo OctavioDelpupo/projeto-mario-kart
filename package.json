@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "projeto-maario-kart",
   "version": "1.0.0",
   "description": "<h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>",
